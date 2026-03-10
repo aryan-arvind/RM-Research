@@ -88,7 +88,7 @@ Note: EuroSAT is primarily classification-oriented. Detection stress results sho
 
 ## Detailed Documentation
 See:
-- `RESEARCH_IMPLEMENTATION_GUIDE.md`
+- `PROJECT_TECHNICAL_DOSSIER.md`
 
 This file includes:
 1. Module-by-module code explanation.
