@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Project-generated artifacts
+outputs/
+logs/
+checkpoints/
+
+# Datasets and large binaries
+datasets/
+*.pt
+*.pth
+*.onnx
+*.zip
+*.tar
+*.gz
+
+yolov8m.pt
+
+# Jupyter
+.ipynb_checkpoints/
